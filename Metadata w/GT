@@ -2735,7 +2735,7 @@
 				},
 				{
 					"abbreviation": "GT",
-					"prestige": "66",
+					"prestige": "50",
 					"hexColor": "#003057",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2990,7 +2990,7 @@
 				},
 				{
 					"abbreviation": "UMD",
-					"prestige": "45",
+					"prestige": "51",
 					"hexColor": "#E03A3E",
 					"offCoordinator": {
 						"contractLength": "3",
